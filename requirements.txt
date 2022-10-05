@@ -1,0 +1,8 @@
+numpy
+emukit
+scipy
+joblib
+tqdm
+tueplots
+sklearn
+pyyaml
