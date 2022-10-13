@@ -21,7 +21,7 @@ The experiments will by default run in parallel with `n_jobs=15` for the repeats
 If your computer has fewer gpus then you can set the command line options:
 `run_all.py [-h] [--n-repeats N_REPEATS] [--save-dir SAVE_DIR] [--n-jobs N_JOBS]`.
 
-We used `python3.9` but the script should also work in other python versions.
+We used `python3.9` but the script should also work in other `python3.8`.
 
 If you use the package in your research please consider citing our paper:
 ```
