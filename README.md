@@ -25,5 +25,5 @@ We used `python3.9` but the script should also work in other `python3.8`.
 
 If you use the package in your research please consider citing our paper:
 ```
-Sadeghi, J., Mueller, R., & Redford, J. (2022). An Active Learning Reliability Method for Systems with Partially Defined Performance Functions. doi:10.48550/ARXIV.2210.02168
+Sadeghi, J., Mueller, R., & Redford, J. (2022). An Active Learning Reliability Method for Systems with Partially Defined Performance Functions. NeurIPS 2022 Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems (GPSMDMS). doi:10.48550/ARXIV.2210.02168
 ```
