@@ -1,4 +1,4 @@
-# Experiments for the paper "Bayesian Quadrature for Probability Threshold Robustness of Partially Undefined Functions"
+# Experiments for the paper "An Active Learning Reliability Method for Systems with Partially Defined Performance Functions"
 
 [![pre-commit](https://github.com/fiveai/hGP_experiments/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/fiveai/hGP_experiments/actions/workflows/pre-commit.yml)
 [![Run tests](https://github.com/fiveai/hGP_experiments/actions/workflows/test.yml/badge.svg)](https://github.com/fiveai/hGP_experiments/actions/workflows/test.yml)
@@ -25,5 +25,5 @@ We used `python3.9` but the script should also work in other `python3.8`.
 
 If you use the package in your research please consider citing our paper:
 ```
-Sadeghi, J., Mueller, R., & Redford, J. (2022). Bayesian Quadrature for Probability Threshold Robustness of Partially Undefined Functions. doi:10.48550/ARXIV.2210.02168
+Sadeghi, J., Mueller, R., & Redford, J. (2022). An Active Learning Reliability Method for Systems with Partially Defined Performance Functions. doi:10.48550/ARXIV.2210.02168
 ```
